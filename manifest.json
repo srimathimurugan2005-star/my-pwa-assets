@@ -1,0 +1,16 @@
+{
+  "name": "MSR Namma Kadai",
+  "short_name": "MSR App",
+  "start_url": "https://script.google.com/macros/s/AKfycbzCJZBdZqG-PTYiAbLS48gwM0mF3exXEwVAubMuF1nD_lbLAHrozHXzJnMiWH6cfQdhpw/exec",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://srimathimurugan2005-star.github.io/my-pwa-assets/launchericon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
