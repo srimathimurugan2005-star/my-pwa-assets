@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.srimathimurugan2005_star.twa",
+        "sha256_cert_fingerprints": ["88:FC:76:F7:03:47:AE:81:86:BB:1F:E9:FD:9E:ED:86:65:7E:5D:D4:D9:F6:5F:F4:F6:6E:64:2B:94:91:A7:60"]
+      }
+    }]
